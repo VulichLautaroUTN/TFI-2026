@@ -2,7 +2,8 @@
 ## Integrantes del equipo
 - Vulich Lautaro
 - Quiroga Diego
-- Chacón Perez Luis Alfredo 
+- Chacón Perez Luis Alfredo
+- Ramayo Dasso Kevin Ezequiel 
 ## Carrera
 Tecnicatura universitaria de Telecomunicaciones
 ## Materia
