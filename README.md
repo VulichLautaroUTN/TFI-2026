@@ -12,5 +12,4 @@ Programacion
 -PseInt
 -Python
 ## Descripción
-Crear diferentes algoritmos que cumplan con las
 Trabajo integrador correspondiente a la materia Programación, compuesto por un total de 10 ejercicios prácticos. En cada uno de ellos se aplican los contenidos desarrollados durante la cursada.
