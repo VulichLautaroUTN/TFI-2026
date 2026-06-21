@@ -30,7 +30,7 @@ Algoritmo SumaDeMatrices
             
             Imprimir Sin Saltar matSuma[f,c], " "
         FinPara
-        Escribir "" // salto d linea
+        Escribir "" // salto de linea
     FinPara
     
 FinAlgoritmo
